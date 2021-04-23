@@ -44,9 +44,9 @@
     <img width="80" alt="github" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg">
   </a>
   <a href="https://juejin.cn/user/2365804751903720">
-    掘金
+    <img width="80" alt="github" src="https://raw.githubusercontent.com/HouWan/HouWan/main/resources/images/jueJin.svg">
   </a>
   <a href="https://www.jianshu.com/u/66bd0d304d81">
-    简书
+  <img width="80" alt="github" src="https://github.com/HouWan/HouWan/blob/main/resources/images/jianshu.png">
   </a>
 </p>
